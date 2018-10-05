@@ -1,0 +1,15 @@
+{
+  "name": "ghosts",
+  "version": "1.0.0",
+  "description": "getting back in the game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass --watch stylesheets/sass -o stylesheets/css"
+  },
+  "author": "Felipe Benitez",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
